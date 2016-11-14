@@ -1,2 +1,3 @@
 # implicit-modelling-
-this model is used to study the properties of algorithmic generated lattice and compare it with real trabecular bone structure
+These models are used to study the properties difference bewtween algorithmic-generated lattice structure with the real trabecular bone structure.
+
